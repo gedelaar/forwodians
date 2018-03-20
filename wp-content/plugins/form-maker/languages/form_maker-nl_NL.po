@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: form_maker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-01 16:25+0300\n"
+"PO-Revision-Date: 2017-03-13 17:47+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\form-"
+"maker\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:320
+msgid "Street Address"
+msgstr "Adres"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:323
+msgid "Street Address Line 2"
+msgstr "Adres regel 2"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:326
+msgid "City"
+msgstr "Plaats"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:329
+msgid "State / Province / Region"
+msgstr "Staat / Provincie / Regio"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:332
+msgid "Postal / Zip Code"
+msgstr "Postcode"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/models/FMModelSubmissions_fm.php:335
+msgid "Country"
+msgstr "Land"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewFormMakerSubmits.php:70
+msgid "Date"
+msgstr "Datum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewSelect_data_from_db.php:171
+msgid "Connection type"
+msgstr "Connectie type"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/admin/views/FMViewSubmissions_fm.php:599
+msgid "Show submission"
+msgstr "Show indiening"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:633
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1493
+msgid "Can not upload this type of file"
+msgstr "Kan niet uploaden dit type bestand"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:634
+msgid "Field is required"
+msgstr "Veld is verplicht"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:635
+msgid "The "
+msgstr "De"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:636
+msgid " value must be between "
+msgstr "  waarde moet liggen tussen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:637
+msgid "Value must be between "
+msgstr "Waarde moet tussen zijn"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:638
+msgid "Are you sure you want to clear saved data?"
+msgstr "Bent u zeker dat u opgeslagen gegevens wissen?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form-maker.php:639
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4894
+msgid "Your score should be less than"
+msgstr "Din score skal være mindre end"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:224
+msgid "Leave A Review?"
+msgstr "Laat een review?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:225
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"We hopen dat u hebt genoten van het gebruik van WordPress% s! Zou u "
+"overwegen het verlaten van ons een review op WordPress.org?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:226
+msgid "Sure! I'd love to!"
+msgstr "Zeker! Ik zou graag!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:227
+msgid "I've already left a review"
+msgstr "Ik heb al een beoordeling links"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:228
+msgid "Maybe Later"
+msgstr "Misschien later"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:229
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:239
+msgid "Never show again"
+msgstr "meer tonen nooit"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:235
+msgid "Hey! How's It Going?"
+msgstr "Hallo! Hoe gaat het?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:236
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Hartelijk dank voor het gebruik van WordPress% s u! Wij hopen dat u alles "
+"wat u nodig hebt gevonden, maar als je vragen hebt:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:237
+msgid "Check out User Guide"
+msgstr "Check out User Guide"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/form_maker_notices_class.php:238
+msgid "Get Some Help"
+msgstr "Get Some Help"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1138
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1149
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1181
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1187
+msgid "Error, incorrect Security code."
+msgstr "Fout, onjuiste beveiligingscode."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1204
+msgid "Your ip is blacklisted. Please contact the website administrator."
+msgstr "Din IP er sortlistet. Kontakt venligst hjemmesiden administrator"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1375
+msgid "This is not a valid date format."
+msgstr "Dit is geen geldige datumnotatie."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1475
+msgid "The file exceeds the allowed size of"
+msgstr "Het bestand overschrijdt de toegestane grootte van"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1577
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:2364
+msgid "Error, file cannot be moved."
+msgstr "Fout, het bestand kan niet worden verplaatst."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:1978
+msgid "This field "
+msgstr "Dit veld"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:2250
+msgid "Nothing was submitted."
+msgstr "Er is niets verzonden."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3259
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3272
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:67
+msgid "Your form was successfully submitted."
+msgstr "Uw formulier is verzonden."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelForm_maker.php:3267
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:64
+msgid "Error, email was not sent."
+msgstr "FOUT: e-mail is niet verzonden."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:31
+msgid "Your email address is already verified."
+msgstr "Uw e-mailadres is al geverifieerd."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:64
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:90
+msgid "Your email has been successfully verified."
+msgstr "Uw e-mail is met succes geverifieerd."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:67
+msgid "Your email verification has timed out."
+msgstr "Uw e-verificatie is verlopen."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/models/FMModelVerify_email.php:95
+msgid "Verification link is invalid."
+msgstr "Verificatie link is ongeldig."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:388
+msgid "Password values don't match"
+msgstr "Password waarden komen niet overeen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:741
+msgid "The email addresses don't match"
+msgstr "De e-mailadressen komen niet overeen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:742
+msgid "This is not a valid email address."
+msgstr "Dit is geen geldig e-mailadres."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "January"
+msgstr "januari"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "February"
+msgstr "februari"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "March"
+msgstr "maart"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "April"
+msgstr "april"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "May"
+msgstr "mei"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "June"
+msgstr "juni"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "July"
+msgstr "juli"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "August"
+msgstr "augustus"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "September"
+msgstr "september"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "October"
+msgstr "oktober"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "November"
+msgstr "november"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1378
+msgid "December"
+msgstr "december"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1801
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:1929
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:2051
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4638
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4668
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4698
+msgid "Quantity"
+msgstr "Mængde"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4175
+msgid ""
+"You cannot select former dates. Choose a date starting from the current one."
+msgstr ""
+"Je kunt geen vroegere data te selecteren. Kies een datum vanaf het huidige."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4556
+msgid "field is required."
+msgstr "veld is verplicht."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4586
+msgid "The"
+msgstr "Den"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_maker.php:4586
+msgid "value must be between"
+msgstr "værdi skal være mellem"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:29
+msgid "You have no permission to view submissions."
+msgstr "Je hebt geen toestemming om inzendingen te bekijken."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:143
+msgid "Entries"
+msgstr "inzendingen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:145
+msgid "Views"
+msgstr "Uitzichten"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:147
+msgid "Conversion Rate"
+msgstr "Conversion Rate"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:150
+msgid "Export to"
+msgstr "Exporteren naar"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:166
+msgid "GO"
+msgstr "gaan "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:167
+msgid "Reset"
+msgstr "Reset "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:170
+msgid "of"
+msgstr "van"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:170
+msgid ""
+"submissions are not shown, as the field you sorted by is missing in those "
+"submissions."
+msgstr ""
+"inzendingen worden niet getoond, zoals het veld dat u gesorteerd per "
+"ontbreekt in die inzendingen."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:300
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:586
+msgid "From"
+msgstr "Fra"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:305
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:588
+msgid "To"
+msgstr "Til"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:357
+msgid "Canceled"
+msgstr "Geannuleerd"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:358
+msgid "Cleared"
+msgstr "ontruimde"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:359
+msgid "Cleared by payment review"
+msgstr "Gewist door betaling beoordeling"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:360
+msgid "Completed"
+msgstr "Voltooid"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:361
+msgid "Denied"
+msgstr "Denied"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:362
+msgid "Failed"
+msgstr "Mislukt"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:363
+msgid "Held"
+msgstr "Held"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:364
+msgid "In progress"
+msgstr "bezig"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:365
+msgid "On hold"
+msgstr "In de wacht"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:366
+msgid "Paid"
+msgstr "Betaald"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:367
+msgid "Partially refunded"
+msgstr "gedeeltelijk terugbetaald"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:368
+msgid "Pending verification"
+msgstr "Wachten op verificatie"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:369
+msgid "Placed"
+msgstr "geplaatst"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:370
+msgid "Processing"
+msgstr "Verwerken"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:371
+msgid "Refunded"
+msgstr "terugbetaald"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:372
+msgid "Refused"
+msgstr "geweigerd"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:373
+msgid "Removed"
+msgstr "verwijderd"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:374
+msgid "Returned"
+msgstr "teruggekeerd"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:375
+msgid "Reversed"
+msgstr "Omgekeerd"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:376
+msgid "Temporary hold"
+msgstr "tijdelijke hold"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:377
+msgid "Unclaimed"
+msgstr "niet opgeëist"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:472
+msgid "Show on Map"
+msgstr "Toon op de kaart"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:505
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:754
+msgid "Total"
+msgstr "Totaal"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:510
+msgid "Show Matrix"
+msgstr "Show Matrix"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:560
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:564
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:568
+msgid "Select a Field"
+msgstr "Selecteer een veld "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:583
+msgid "Select a Date"
+msgstr "Kies een Datum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:594
+msgid "Show"
+msgstr "Tonen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:626
+msgid "Please select the field!"
+msgstr "Selecteer het veld!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:723
+msgid "Choices"
+msgstr "keuzes"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:724
+msgid "Percentage"
+msgstr "Percentage"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:725
+msgid "Count"
+msgstr "tellen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:747
+msgid "Unanswered"
+msgstr "Onbeantwoord"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:773
+msgid "Address"
+msgstr "Adres"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:781
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\form-maker/frontend/views/FMViewForm_submissions.php:789
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+#~ msgid ""
+#~ "This field %s requires a unique entry and this value was already "
+#~ "submitted."
+#~ msgstr ""
+#~ "Dit veld %s verwacht een unieke invoer en deze waarde is al gebruikt."
+
+#, fuzzy
+#~ msgid "Error, file destination does not exist."
+#~ msgstr "FOUT: e-mail is niet verzonden."
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "First"
+#~ msgstr "Voornaam"
+
+#~ msgid "Last"
+#~ msgstr "Achternaam"
+
+#~ msgid "Middle"
+#~ msgstr "Middelhoog"
+
+#~ msgid "Area Code"
+#~ msgstr "Netnummer"
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefoonnummer"
+
+#~ msgid "Dollars"
+#~ msgstr "Dollars"
+
+#~ msgid "Cents"
+#~ msgstr "Cents"

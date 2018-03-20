@@ -1,0 +1,569 @@
+Form Maker
+
+2.11.1
+Removed: Old forms support (created with Form Maker versions < 2.7)
+Added: Form Header
+Added: New Themes
+Added: New Theme Editor
+Added: Form Display Options (Embedded, Popup, Topbar, Scrollbox)
+Fixed: Database creation on some versions of MySQL
+Fixed: Removed html tags from csv and xml
+
+
+2.10.11
+Added: Support forum links.
+
+2.10.10
+Fixed: Bug on arithmetic captcha
+
+2.10.9
+Changed: New logo
+
+2.10.8
+Added: New field type: Phone with flag
+Fixed: Bug on captcha reset
+
+2.10.7
+Changed: Improved captcha security
+Fixed: Bug on matrix field
+Fixed: Bug on conditional fields (for date field)
+Added: Notification about old forms
+
+2.10.6
+Fixed: Bug on spinner field
+Fixed: Bug on matrix field
+
+2.10.5
+Fixed: Form submission error
+
+2.10.4
+Fixed: Conflict with Yoast SEO plugin
+Fixed: Line breaks in textarea after incorrect captcha
+
+2.10.3
+Fixed: Bug on php version 5.3 and earlier
+
+2.10.2
+Added: New Global option "Use alternative version of JS code on front-end:". Checking this box fixes JS conflicts with some themes, that alter inline JS.   
+
+2.10.1
+Added: Verified emails list in csv, xml files
+
+2.10
+Changed: Field validation errors and notifications   
+Added: Realtime field validation   
+Changed: Improved NL translation   
+Fixed: Bug on verified emails   
+
+2.9.18
+Added: Filter verified emails and Export submissions with verified emails
+
+2.9.17
+Fixed: Bug with search by ID in Submissions 
+Fixed: Bug with Validation (Regular Exp.)
+
+2.9.16
+Fixed: Bug with Hidden field in custom text in Email
+Fixed: Bug on email verification custom post
+Added: Field type in field edit page
+
+2.9.15
+Added: Password Confirmation field
+
+2.9.14
+Fixed: Bug on CSV and XML export
+
+2.9.13
+Fixed: Bug on Field label position (Left/Top)   
+Fixed: JS error on IE 11 and Microsoft Edge   
+
+2.9.12
+Added: Email Confirmation field
+Fixed: Bug on CSV and XML export
+
+2.9.11
+Changed: Filters now apply to CSV and XML export.
+Fixed: Bug on "form-maker-stripe" add-on.
+
+2.9.10
+Fixed: Bug on "Advanced Layout".
+
+2.9.9
+Changed: Featured plugins page.
+
+2.9.8
+Fixed: Unexpected behavior on pressing "Enter" key on back end
+Fixed: Minor bugs with paypal fields in Email
+Fixed: Bug on editing submissions with shipping and radio fields(paypal) with customized values.
+
+2.9.7
+Fixed: Front end submissions styles   
+Fixed: JS error on incorrect Google Maps API key   
+Added: Alert about incorrect Google Maps API key   
+
+2.9.6
+Added: Global option for Google Maps API key   
+Fixed: Google Maps API key warning in browser   
+
+2.9.5
+Fixed: Bug on automatic update system concerning important updates
+Changed: Improvements in "Select options from database" pop-up window for Select box, single and multiple choices    
+Fixed: Back end minor style issues   
+
+2.9.4
+Fixed: Bug on editing submissions.
+
+2.9.3
+Fixed: Bug with Date field in custom text in Email   
+Fixed: Bug on editing submissions with checkbox and radio fields with customized values    
+
+2.9.2
+Added: Option to hide labels
+Added: "View" button on submissions to open a sigle submission in a separate pop-up window
+Fixed: Minor bugs on editing submissions
+Fixed: Ordering in submissions page
+
+2.9.1
+Fixed: bug on date field on some browsers (Safari, Edge) 
+
+2.9
+Changed: Improved Date picker functionality (new options: Dates to exclude, Default, Minimum, Maximum dates)
+Added: New field type: Date Range
+
+2.8.41
+Fixed: Bug on conditional fields (for multiple forms on the same page)
+
+2.8.40
+Changed: Style of required field asterisk
+Changed: Display the correct IDs and Names of the fields in the back end (Add/Edit field interface) to use in js/css  
+
+2.8.39
+Fixed: Bug on Matrix field (additional attributes)
+Fixed: Add-ons update system minor bug
+
+2.8.38
+Fixed: Bug on Matrix field (special characters in row/column labels)
+
+2.8.37
+Bug on required fields validation
+
+2.8.36
+Fixed: Bug on long content in textarea fields  
+Fixed: Bug on add-ons automatic update system  
+Changed: Required fields validation removed when saving progress (Save Progress add-on)
+
+2.8.35
+Fixed: Browser warning on Google Maps API version   
+Fixed: Phone field style issue on Mac OS  
+Improvements in automatic update notifications  
+
+2.8.34
+Fixed: Some minor style issues
+Fixed: Remove payment info of deleted submissions
+
+2.8.33
+Fixed: Bug in Address field
+Fixed: Bug with Additional Attributs in Email field
+Changed: before_submit() function functionality
+
+2.8.32
+New Add-on: Calculator
+Removed: deprecated Number field
+
+2.8.31
+Fixed: Bug with search in Submissions page1.8.30
+Added: Submission ID in csv export
+
+2.8.29
+Changed: Featured Plugins, Featured Themes pages design 
+
+2.8.28
+Fixed: Bug in Email Options     
+Fixed: Bug in Conditional Fields      
+Fixed: Bug in date field   
+Fixed: Bug in payment select field   
+
+2.8.27
+Fixed: Bug in Conditional Fields, Bug with Additional Attributs in Multiple Choice
+
+2.8.26
+Fixed: Submissions page styles    
+Fixed: Issue with IPv6     
+
+2.8.25
+Changed: Featured Plugins, Featured Themes pages design
+Fixed: Bug in conditional fields 
+
+2.8.24
+Added: File upload as link functionallity
+
+2.8.23
+Fixed: Bug in textarea field with line breaks
+ 
+2.8.21
+Fixed: Bug in selectbox 
+
+2.8.20
+Added: Autofill functionality for email address and name fields 
+
+2.8.19
+Changed: Back End design 1.8.18Added: Date format validation 
+Fixed: Recaptcha Validation bug 1.8.17Added: Global Options submenu
+
+2.8.16
+Fixed: User guide links
+
+2.8.15
+Changed:Back End Design for old forms
+
+2.8.14
+Fixed:Bug in PayPal field
+Changed:Matrix field display in email
+
+2.8.13
+Fixed:Bug in PayPal options 
+Fixed: Style in form edit page
+
+2.8.12
+Changed:Search, Reset buttons style in submissions page1.8.11
+New Add-on: Stripe
+
+2.8.10
+Fixed: Bug in Name Field
+Fixed: Bug in Captcha
+
+2.8.9
+New Add-on: Save Progress
+
+2.8.6
+Fixed: Bug with scrolling, Bug in MySql mapping on firefox mozilla browser
+
+2.8.5
+Fixed: Bug in MySql mapping
+Added: New theme in Featured Themes
+
+2.8.4
+Fixed: Bug with pagination in submissions page
+Fixed: Bug in paypal options
+
+2.8.3
+Changed: Backend design 
+Fixed: Bug in paypal options
+
+2.8.2
+New Add-on: Pushover
+
+2.8.1
+Changed: Bug in update
+
+
+2.8.0
+Changed: Backend design
+
+2.7.97
+Fixed: Bug in CSV/XML export  
+
+2.7.96
+Added: Preview button  
+Changed: Conditional fields limitation
+
+2.7.95
+Changed: csv/xml export file directory
+
+2.7.94
+Added: Progress bar for csv/xml export 
+
+2.7.93
+Fixed: Bug in mailing   
+Changed: Calendar styles   
+
+2.7.92
+Fixed: Bug in mailing   
+
+2.7.91
+Changed: Themes
+Fixed: Bug in block ip
+
+2.7.90
+Fixed: Bug in CSV/XML export 
+
+2.7.89
+Fixed: Conflict with some plugins     
+Changed: Styles      
+
+2.7.88
+New: Doublescroll in submissions page      
+New: Delete confirmation        
+Fixed: Bug in mysql mapping for conditional fields     
+
+2.7.87
+Fixed: Bug in CSV/XML export
+
+2.7.86
+Changed: CSV/XML export
+
+2.7.85
+Fixed: Bug in conditional fields
+
+2.7.84
+New Add-on: PDF Integration
+
+2.7.83
+New Add-on: Google Drive Integration
+
+2.7.82
+Fixed: Bug in demo forms
+
+2.7.81
+Fixed: Bug in update
+
+2.7.80
+Changed: Notices
+
+2.7.79
+Fixed: Bug in update
+Fixed: Bug in Save Uploads option
+
+2.7.78
+Changed: Themes
+
+2.7.77
+New Add-on: Dropbox Integration
+
+2.7.76
+Changed: Notices
+
+2.7.75
+Changed: Submissions default ordering
+Changed: Featured Plugins page
+
+2.7.74
+Changed: Updates page
+
+2.7.73
+New: Notices
+
+2.7.72
+Fixed: Bug in Conditional Emails
+
+2.7.71
+New Add-on: Conditional Emails
+
+2.7.69
+Minor bug fixed
+
+2.7.68
+Changed: Compability with WordPress 4.3
+
+2.7.67
+Fixed: Bug in slider field
+Fixed: Bug in address field
+Fixed: Bug in mysql mapping
+
+2.7.66
+Fixed: Bug in Undo/Rendo
+
+2.7.65
+New Add-on: Post Generation
+
+2.7.64
+Minor bug fixed
+
+2.7.63
+New: Add-ons page logo
+
+2.7.62
+New Add-on: User Registration
+
+2.7.61
+New: Form Maker Add-ons page
+New: Update Page
+
+2.7.60
+Minor bug fixed
+
+2.7.59
+Fixed: Bug in csv/xml export
+
+2.7.58
+Fixed: Minor bugs   
+Added: Email verification custom post   
+
+2.7.57
+Fixed: Security issue
+
+2.7.56
+New: ReCaptcha version 2.0
+New: Arithmetic Captcha
+
+2.7.55
+New: Undo/Rendo form
+
+2.7.54
+bug fixed in conditional fields
+
+2.7.53
+Bug fixed in select field
+
+2.7.52
+Minor bug fixed
+
+2.7.51
+Changed: Featured plugins page.  
+New: Featured themes page.  
+
+2.7.50
+Minor bug fixed
+
+2.7.49
+Minor bug fixed
+
+2.7.48
+bug in radio and matrix fields fixed
+
+2.7.47
+Show custom html and section break id
+
+2.7.46
+Enable/Disable Title and Middle Name for Name field
+
+2.7.45
+New: Option to disable past days in date picker
+Fixed: Bug in custom text after submissions
+
+2.7.44
+Security issue fixed
+
+2.7.43
+Email validation
+
+2.7.42
+change wd links "http" to "https"
+bug in reCaptcha fixed
+
+2.7.41
+bug in conditional fields fixed
+
+2.7.40
+Allow to use entry values in "Custom text after submission"
+
+2.7.39
+New: User informetion in mysql mapping
+Fixed: Country names
+
+2.7.38
+bug in stats fixed
+change field value type to longtext
+
+2.7.37
+optimize csv export
+
+2.7.35
+New: Email empty fields option
+
+2.7.34
+New: Validation (Regular Exp.)
+Fixed: Select field duplication
+
+2.7.33
+change upload folder.
+address field line 2 not required.
+
+2.7.32
+bug fixed
+
+2.7.31
+  Bug fixed: Hidden field save to DB.
+  New: Drag and drop options in multiple, single choices and select box.
+  New: Select options from database.
+  New: Add image in email as image.
+  New: Additional clauses within conditional fields.
+  New: Search submissions by ID.
+  New: Submission ID in email.
+
+2.7.29
+  Bug fixed: Delete theme.
+  Bug fixed: Empty From name.
+
+2.7.28
+  Security issue: SQL Injection in SQL mapping.
+  Security issue: Javascript in field and page labels.
+  Security issue: CSRF.
+  Bug fixed: Uploaded file name if exist.
+  Bug fixed: Edit submissions.
+  Bug fixed: Conditional fielsd with quota in labels
+
+2.7.27
+  Bug fixed: csv\xml export.
+
+2.7.26
+  Bug fixed: Email content.
+
+2.7.25
+  Changed: Removed fancybox.
+
+2.7.24
+  display php function to publish form
+
+2.7.23
+  bug in Recaptcha fixed
+
+2.7.22
+  Form field reordering using Drag&Drop
+
+2.7.21
+  wp 4.0.1 shortcode issue fixed
+
+2.7.18
+  pagination with input
+
+2.7.17
+  bug fixed in condition fileds
+
+2.7.16
+  show submitter information in popup (Country, CountryCode, City, Latitude, Longitude)
+
+2.7.15
+  bug fixed
+
+2.7.14
+  csv, xml export mark on map
+
+2.7.13
+  sql mapping
+
+2.7.12
+  extended name edit bug fixed (if first input is empty)
+
+2.7.11
+  hidden field edit bug fixed
+
+2.7.10
+  security issue fixed
+
+2.7.9
+  line break in custom text in email
+
+2.7.8
+  bug fixed in required radio field
+
+2.7.7
+  bug fixed in adding new form
+
+2.7.6
+  new email options, conditional fileds
+
+2.7.5
+  conflict with jetpack fixed
+
+2.7.4
+  bug fixed in form options
+
+2.7.2
+  improve themes
+
+2.7.1
+  bug fixed in email options
+
+2.7
+  Div structured, responsive form Editable form layout New themes.

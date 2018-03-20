@@ -1,0 +1,7 @@
+#Secure Accesss to WP-ADMIN by Domain Name
+<FilesMatch ".*">
+Order deny,allow
+deny from All
+allow from edelaar.dynu.net
+allow from edelaar.duckdns.org
+</FilesMatch>

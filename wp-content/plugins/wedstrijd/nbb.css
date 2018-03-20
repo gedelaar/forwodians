@@ -1,0 +1,83 @@
+
+a:link {
+    color: #F75A08;
+}
+
+a:visited {
+    color: #FF9933;
+}
+
+a:active {
+    color: #FF9933;
+}
+
+a.route:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+.head {
+    background: #FF9900;
+    color: WHITE;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+}
+
+.light {
+    background: WHITE;
+}
+
+.dark {
+    background: #d0d0d0;
+}
+
+.highlight {
+    color: #F75A08;
+}
+
+body,p,table,td,tr {
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+}
+
+table {
+    text-align: left;
+}
+
+.gd {
+    background: #d0d0d0;
+  /* text-align: left; */
+}
+
+.gl {
+    background: WHITE;
+  /*text-align: left; */
+}
+
+.gh {
+    background: #FF9900;
+    color: WHITE;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+}
+
+.bd {
+    background: #000000;
+}
+
+.msg {
+    font-size: 14px;
+}
+
+.titel {
+    color: #F75A08;
+}
+
+.ads {
+}
+
+ 

@@ -1,0 +1,118 @@
+<site>
+ <posts />
+ <pages customHeadHtml="">
+  <page author="" caption="Home" customHeadHtml="" dateModified="02/01/2017 10:11:46" description="" keywords="" metaTags="" name="home" path="/home" showInHmenu="True" showInVmenu="True" showTitle="False" title="Home" titleInBrowser="Home">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #D6D6D6; background: #F26A02; padding-right: 10px;padding-left: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { padding: 20px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 33%" &gt;
+        &lt;h5&gt;Wedstrijdschema&lt;/h5&gt;&lt;p style="text-align: center;"&gt;&lt;img width="273" height="182" alt="" src="./images/shutterstock_44473723.jpg" class=""&gt;&lt;/p&gt;&lt;p style="color: rgb(255, 255, 255); text-align: center;"&gt;Hier vind u het wedstrijdschema.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Lees meer&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 34%" &gt;
+        &lt;h5&gt;Wedstrijdverslagen&lt;/h5&gt;&lt;p style="text-align: center;"&gt;&lt;img width="273" height="182" alt="" src="./images/shutterstock_9316666.jpg" class=""&gt;&lt;/p&gt;&lt;p style="color: rgb(255, 255, 255); text-align: center;"&gt;Lees hier de wedstrijdverslagen.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Lees meer&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 33%" &gt;
+        &lt;h5&gt;Trainingschema&lt;/h5&gt;&lt;p style="text-align: center;"&gt;&lt;img width="273" height="182" style="margin-top: 0px; margin-right: 25px; margin-bottom: 0px; margin-left: 3px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" alt="" class="art-lightbox" src="./images/34331a2b-6773-4fe7-80cd-e8c3a75c6cd9.png"&gt;
+        &lt;/p&gt;&lt;p style="color: rgb(255, 255, 255); text-align: center;"&gt;Hier vind je het trainingschema.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Lees meer&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 34%" &gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 33%" &gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;h5&gt;Wedstrijdschema&lt;/h5&gt;&lt;p style="text-align: center;"&gt;&lt;img width="273" height="182" alt="" src="shutterstock_44473723.jpg" class=""&gt;&lt;/p&gt;&lt;p style="color: rgb(255, 255, 255); text-align: center;"&gt;Hier vind u het wedstrijdschema.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Lees meer&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;h5&gt;Wedstrijdverslagen&lt;/h5&gt;&lt;p style="text-align: center;"&gt;&lt;img width="273" height="182" alt="" src="shutterstock_9316666.jpg" class=""&gt;&lt;/p&gt;&lt;p style="color: rgb(255, 255, 255); text-align: center;"&gt;Lees hier de wedstrijdverslagen.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Lees meer&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;h5&gt;Trainingschema&lt;/h5&gt;&lt;p style="text-align: center;"&gt;&lt;img width="273" height="182" style="margin-top: 0px; margin-right: 25px; margin-bottom: 0px; margin-left: 3px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" alt="" class="art-lightbox" src="34331a2b-6773-4fe7-80cd-e8c3a75c6cd9.png"&gt;
+&lt;/p&gt;&lt;p style="color: rgb(255, 255, 255); text-align: center;"&gt;Hier vind je het trainingschema.&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Lees meer&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Wedstrijdzaken" customHeadHtml="" dateModified="12/14/2016 16:12:54" description="" keywords="" metaTags="" name="wedstrijdzaken" path="/wedstrijdzaken" showInHmenu="True" showInVmenu="True" showTitle="True" title="Wedstrijdzaken" titleInBrowser="Wedstrijdzaken">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pages>
+    <page author="" caption="Wedstrijden" customHeadHtml="" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="wedstrijden" path="/wedstrijdzaken/wedstrijden" showInHmenu="True" showInVmenu="True" showTitle="True" title="Nieuwe pagina" titleInBrowser="Nieuwe pagina">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="Wedstrijdwijzigingen" customHeadHtml="" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="wedstrijdwijzigingen" path="/wedstrijdzaken/wedstrijdwijzigingen" showInHmenu="True" showInVmenu="True" showTitle="True" title="Nieuwe pagina" titleInBrowser="Nieuwe pagina">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="Trainingsschema" customHeadHtml="" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="trainingsschema" path="/wedstrijdzaken/trainingsschema" showInHmenu="True" showInVmenu="True" showTitle="True" title="Nieuwe pagina" titleInBrowser="Nieuwe pagina">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+   </pages>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+ <collages />
+</site>
